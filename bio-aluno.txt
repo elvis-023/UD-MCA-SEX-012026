@@ -1,0 +1,7 @@
+Nome: Enyinna Elvis Ugwu
+RA: 823134243
+Curso: Engenharia de Sofware
+Semestre: 7°
+Bairro: Vila Prudente
+Trabalha: Sim
+Objetivo: Me tornar desenvolvedor de software
